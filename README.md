@@ -6,5 +6,5 @@ So, please, regard the prerequisites and the "getting started" in this repositor
 
 ## Starting the Mean-Battleship application
 Please, use "npm install" + "npm run build" in both the client and the server folder.
-Now it is possible to start the application via start.bat.
+Now it is possible to start the application via startServer.bat.
 The WebUI is now hosted under http://localhost:3030.
