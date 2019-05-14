@@ -1,9 +1,0 @@
-[submodule "client"]
-	path = client
-	url = ./client/
-[submodule "common"]
-	path = common
-	url = ./common/
-[submodule "server"]
-	path = server
-	url = ./server/
