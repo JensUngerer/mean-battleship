@@ -1,9 +1,9 @@
 [submodule "server"]
 	path = server
-	url = ./server/
+	url = https://github.com/JensUngerer/mean-battleship-server.git
 [submodule "client"]
 	path = client
-	url = ./client
+	url = https://github.com/JensUngerer/mean-battleship-client.git
 [submodule "common"]
 	path = common
-	url = ./common/
+	url = https://github.com/JensUngerer/mean-battleship-common.git
