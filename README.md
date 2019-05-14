@@ -1,6 +1,6 @@
 # Mean-Battleship
 
-##Cloning
+## Cloning
 ```
 git clone --recurse-submodules https://github.com/JensUngerer/mean-battleship.git ./mean-battleship
 ```
