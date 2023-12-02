@@ -9,4 +9,4 @@
 	url = https://github.com/JensUngerer/mean-battleship-common.git
 [submodule "server-new"]
 	path = server-new
-	url = ./server-new
+	url = git@github.com:JensUngerer/mean-battleship-server-new.git
